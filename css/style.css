@@ -1,0 +1,142 @@
+
+
+/*font-family: 'Playfair Display', serif;*/
+/*font-family: 'Ubuntu', sans-serif;*/
+/*font-family: 'Inconsolata', monospace;*/
+
+
+
+body{
+	font-family: 'Playfair Display', serif;
+    
+}
+
+
+/*header start*/
+
+header{
+	background-color:#ffffff;
+	padding: 35px 0;
+}
+.menu ul {
+
+}
+.menu ul li{
+
+}
+.menu ul li a{
+	font-weight: 700;
+  font-size: 14px;
+  color: #626262 !important;
+  transition: 0.5s;
+  padding: 0 50px !important;
+  text-transform: uppercase;
+}
+.menu ul li:hover a{
+	color: red !important;
+}
+.menu ul li:last-child a{
+	padding-right: 0 !important;
+}
+
+/*header end*/
+
+/*banner start*/
+.banner{
+background-color: #ffffff;
+padding:50px 0;
+}
+img{
+width: 100%;
+  
+   }
+
+
+   /*banner end*/
+
+
+/*getaway start*/
+.getaway {
+padding: 20px 60px;
+}
+.h4{
+    font-family: 'Ubuntu', sans-serif;
+    color: #b4ad9e;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-bottom: 38px;
+}
+.h1{
+   font-family: 'Playfair Display', serif;
+   font-size: 30px;
+   color: #626262;
+   margin-bottom: 38px;
+}
+
+.h6{
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+    font-size: 14px;
+    margin-bottom: 50px;
+}
+
+
+/*gateway end*/
+
+
+/*service part start*/
+.single{
+   padding: 10px 45px;
+}
+.single img{
+    margin-bottom: 40px;
+}
+/*service part end*/
+
+
+/* newsletter start */
+.newsletter{
+  background-color: #f0f0f0;
+  padding: 50px 0;
+  margin-bottom: 50px;
+}
+.newsletter-form{
+  width: 360px;
+  margin: 0 auto;
+    display: block;
+    position: relative;
+}
+.newsletter-form .custom-form{
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid black;
+  width: 330px !important;
+  border-radius: 0 !important;
+  display: block;
+  padding: 0 50px 0 0;
+  margin-top: 40px;
+}
+.newsletter .custom-form-btn{
+  border: none;
+  position: absolute;
+  right: -12px;
+  bottom:1px;
+}
+/* newsletter end */
+
+
+/*button start*/
+.btn button{
+  margin: 100px 0;
+  padding: 8px 15px;
+}
+/*button end*/
+
+/*header start*/
+footer{
+  background-color: #F2FBF3;
+}
+.right{
+  float: right;
+}
+/*header end*/
